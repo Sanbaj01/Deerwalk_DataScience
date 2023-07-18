@@ -1,0 +1,90 @@
+StableDiffusion can now run directly in the browser on WebGPU (islamov.ai)
+https://islamov.ai/stable-diffusion-webgpu/
+********************
+fMRI-to-Image with Contrastive Learning and Diffusion Priors (stability.ai)
+https://stability.ai/research/minds-eye
+********************
+Coroutines for Go (swtch.com)
+https://research.swtch.com/coro
+********************
+A driver-owned alternative to Uber and Lyft is on the verge of profitability (nextcity.org)
+https://nextcity.org/urbanist-news/new-yorks-driver-owned-ride-hailing-app-is-putting-its-foot-on-the-accelera
+********************
+Never waste a midlife crisis (austinkleon.com)
+https://austinkleon.com/2023/07/10/never-waste-a-midlife-crisis/
+********************
+The Nano ESP32 (arduino.cc)
+https://blog.arduino.cc/2023/07/17/introducing-the-nano-esp32-thats-iot/
+********************
+Loss of smell may be an early sign of brain diseases (nautil.us)
+https://nautil.us/loss-of-smell-may-be-an-early-sign-of-brain-diseases-354483/
+********************
+Computer memory prototype ditches 1s and 0s for denser data storage (newatlas.com)
+https://newatlas.com/electronics/computer-memory-resistive-switching-denser-data-storage/
+********************
+Harry Frankfurt has died (nytimes.com)
+https://www.nytimes.com/2023/07/17/books/harry-g-frankfurt-dead.html
+********************
+MixRank (YC S11) Is Hiring Global Remote Software Engineers
+item?id=36766395
+********************
+Cree Syllabics (omniglot.com)
+https://omniglot.com/writing/cree.htm
+********************
+Are large language models a threat to digital public goods? (arxiv.org)
+https://arxiv.org/abs/2307.07367
+********************
+Alto Trek, a networked multiplayer game from 1978 (wikipedia.org)
+https://en.wikipedia.org/wiki/Alto_Trek
+********************
+You can deactivate anyone's WhatsApp account by simply sending an email (twitter.com/jakemooreuk)
+https://twitter.com/JakeMooreUK/status/1680962682726363136
+********************
+WHO aspartame brouhaha (dynomight.net)
+https://dynomight.net/aspartame-brouhaha/
+********************
+Bringing 19th century ornamental tile illustrations into a 21st century web app (deepakg.com)
+https://www.deepakg.com/bringing-19th-century-ornamental-tile-illustrations-into-a-21st-century-web-app
+********************
+Official Chrome extension to use iCloud Keychain Passwords (chrome.google.com)
+https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj
+********************
+The C Programming Language: Myths and Reality (lelanthran.com)
+https://www.lelanthran.com/chap9/content.html
+********************
+A technical look at ZeroNet (znano.eu.org)
+https://znano.eu.org/blog/posts/a-very-technical-look-at-zeronet
+********************
+The Problem with Slow Tools (jeremymikkola.com)
+https://jeremymikkola.com/posts/2021_04_01_the_problem_with_slow_tools.html
+********************
+A Firefox-only minimap (2021) (stefanjudis.com)
+https://www.stefanjudis.com/a-firefox-only-minimap/
+********************
+The US economy and the EU were the same size in 2008, the US is now nearly 2X (twitter.com/scienceisstrat1)
+https://twitter.com/scienceisstrat1/status/1680959906969444352
+********************
+Notes on Puzzles (nabeelqu.substack.com)
+https://nabeelqu.substack.com/p/notes-on-puzzles
+********************
+What's wrong with enterprise Linux (unix.foo)
+https://unix.foo/posts/enterprise-linux/
+********************
+Ask HN: Whatever happened to the “coming wave” of delivery drones?
+item?id=36764829
+********************
+How to Convert Bytes to Grams (thatxliner.github.io)
+https://thatxliner.github.io/blog/posts/how-to-convert-bytes-to-grams/
+********************
+The PoWeR technique: a strategic approach to self-discipline (indiehackers.com)
+https://www.indiehackers.com/post/the-power-technique-a-strategic-approach-to-self-discipline-11bc6724d6
+********************
+Launch HN: Grai (YC S22) – Open-Source Data Observability Platform
+item?id=36758122
+********************
+A Tribute to the Compucolor II (2013) (compucolor.org)
+http://compucolor.org/
+********************
+Miyazaki has used the art of animation to study the major problem of adult life (nybooks.com)
+https://www.nybooks.com/online/2023/07/13/loves-work-hayao-miyazaki/
+********************
