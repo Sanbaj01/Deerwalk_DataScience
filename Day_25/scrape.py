@@ -43,3 +43,33 @@ with open('quotes.txt', 'w', encoding="utf-8") as f:
 # for quote in quotes:
 #     print(quote.text)
 
+
+
+
+
+
+# import requests
+# from bs4 import BeautifulSoup
+
+# def scrape_quotes(url):
+#     quotes = []
+#     headers = {'User-Agent': 'Mozilla/5.0'}  # Some websites require a User-Agent header
+#     response = requests.get(url, headers=headers)
+
+#     if response.status_code == 200:
+#         soup = BeautifulSoup(response.text, 'html.parser')
+#         quote_elements = soup.find_all('div', class_='quoteText')
+
+#         for element in quote_elements:
+#             quote_text = element.get_text().strip().split('\n')[0].strip()[1:-1]  # Remove extra characters
+#             quotes.append(quote_text)
+
+#     return quotes
+
+# if __name__ == "__main__":
+#     url = "https://www.goodreads.com/quotes/tag/love"
+#     quotes = scrape_quotes(url)
+#     for idx, quote in enumerate(quotes, start=1):
+#         print(f"{idx}. {quote}\n")
+
+
