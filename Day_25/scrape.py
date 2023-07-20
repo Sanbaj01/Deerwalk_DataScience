@@ -37,11 +37,19 @@ quotes = soup.find_all('div', class_="quoteText")
 
 with open('quotes.txt', 'w', encoding="utf-8") as f:
     for quote in quotes:
-        f.write(quote.text)
-        
+        f.write(quote.text.split('―')[0].strip() + '  - \n')
+        f.write(quote.text.split('―')[1].strip() + '\n')
+        f.write('*' * 50 + '\n\n')
+
 
 # for quote in quotes:
-#     print(quote.text)
+    # print(quote.text.split('―')[0].strip())
+    # print(quote.text.split('―')[1].strip())
+#     break
+
+
+        
+
 
 
 
