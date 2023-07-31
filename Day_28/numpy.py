@@ -42,5 +42,5 @@ Array - elemens are store in contiguous storage(one after another).
 # print(b)
 
 
-
+#I need to strengten my DSA knowledge, to enhance my skills.
 ########### CHECK OUT LINKED LIST.
